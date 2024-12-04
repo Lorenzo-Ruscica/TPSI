@@ -2051,7 +2051,7 @@ I principali widget sono:
   <label for="idnome">Nome: </label>
   <input type="text" id="idnome" name="nome" placeholder="Nome">
   <label for="idcognome">Cognome: </label>
-  <input type="text" id="idcognome" name="cognnome" placeholder="Cognome">
+  <input type="text" id="idcognome" name="cognome" placeholder="Cognome">
 </form>
 ```
 
